@@ -1,0 +1,11 @@
+{
+  "sign-dictionary": [
+    {
+      "description": "kr-dal-1",
+      "file_to_url": {
+        "videos/kr-dal-1_1.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_1.mp4",
+        "videos/kr-dal-1_2.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_10.mp4"
+      }
+    }
+  ]
+}

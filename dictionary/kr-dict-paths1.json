@@ -1,0 +1,19 @@
+{
+  "sign-dictionary": [
+    {
+      "description": "kr-dal-1",
+      "file_to_path": {
+        "videos/kr-dal-1_hi.mp4": "videos/kr-dal-1_hi.mov",
+        "videos/kr-dal-1_help.mp4": "videos/kr-dal-1_help.mov",
+        "videos/kr-dal-1_what.mp4": "videos/kr-dal-1_what.mov",
+        "videos/kr-dal-1_seoul.mp4": "videos/kr-dal-1_how.mov",
+        "videos/kr-dal-1_busan.mp4": "videos/kr-dal-1_how.mov",
+        "videos/kr-dal-1_distance.mp4": "videos/kr-dal-1_how.mov",
+        "videos/kr-dal-1_name.mp4": "videos/kr-dal-1_how.mov",
+        "videos/kr-dal-1_i.mp4": "videos/kr-dal-1_how.mov",
+        "videos/kr-dal-1_today.mp4": "videos/kr-dal-1_how.mov",
+        "videos/kr-dal-1_weather.mp4": "videos/kr-dal-1_how.mov"
+      }
+    }
+  ]
+}

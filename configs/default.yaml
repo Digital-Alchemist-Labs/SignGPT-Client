@@ -1,0 +1,6 @@
+epochs: 300
+# num_classes: 10
+num_classes: 7
+# ckpt_name: ckpts/epoch300_10words.ckpt
+ckpt_name: ckpts/epoch300_6words.ckpt
+# ckpt_name: /Users/jaylee_83/Documents/_DigitalAlchemistLabs/Sign-Language-Project/ckpts

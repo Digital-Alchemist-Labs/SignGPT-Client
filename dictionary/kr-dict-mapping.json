@@ -1,0 +1,94 @@
+[
+  {
+    "country": "kr",
+    "description": "Korean Sign Language Videos for Sign GPT",
+    "mapping": [
+      {
+        "label": "kr-dal-1_1",
+        "token": {
+          "kr": ["1", "하나", "일"],
+          "en": ["1", "one"]
+        }
+      },
+      {
+        "label": "kr-dal-1_10",
+        "token": {
+          "kr": ["10", "열", "십"],
+          "en": ["10", "ten"]
+        }
+      },
+      {
+        "label": "kr-dal-1_hi",
+        "token": {
+          "kr": ["안녕", "안녕하세요"],
+          "en": ["hi", "hello"]
+        }
+      },
+      {
+        "label": "kr-dal-1_help",
+        "token": {
+          "kr": ["돕다"],
+          "en": ["help"]
+        }
+      },
+      {
+        "label": "kr-dal-1_what",
+        "token": {
+          "kr": ["무엇", "?"],
+          "en": ["what", "?"]
+        }
+      },
+      {
+        "label": "kr-dal-1_seoul",
+        "token": {
+          "kr": ["서울"],
+          "en": ["seoul"]
+        }
+      },
+      {
+        "label": "kr-dal-1_busan",
+        "token": {
+          "kr": ["부산"],
+          "en": ["busan"]
+        }
+      },
+      {
+        "label": "kr-dal-1_distance",
+        "token": {
+          "kr": ["거리"],
+          "en": ["distance"]
+        }
+      },
+      {
+        "label": "kr-dal-1_name",
+        "token": {
+          "kr": ["이름"],
+          "en": ["name"]
+        }
+      },
+      {
+        "label": "kr-dal-1_i",
+        "token": {
+          "kr": ["나"],
+          "en": ["I"]
+        }
+      },
+      {
+        "label": "kr-dal-1_today",
+        "token": {
+          "kr": ["오늘"],
+          "en": ["today"]
+        }
+      },
+      {
+        "label": "kr-dal-1_weather",
+        "token": {
+          "kr": ["날씨"],
+          "en": ["weather"]
+        }
+      }
+    ],
+    "organization": "SignGPT",
+    "url": ""
+  }
+]
