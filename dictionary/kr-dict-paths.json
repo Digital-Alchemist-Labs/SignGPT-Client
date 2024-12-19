@@ -6,13 +6,20 @@
         "videos/kr-dal-1_hi.mp4": "videos/kr-dal-1_hi.mov",
         "videos/kr-dal-1_help.mp4": "videos/kr-dal-1_help.mov",
         "videos/kr-dal-1_what.mp4": "videos/kr-dal-1_what.mov",
-        "videos/kr-dal-1_seoul.mp4": "videos/kr-dal-1_how.mov",
-        "videos/kr-dal-1_busan.mp4": "videos/kr-dal-1_how.mov",
-        "videos/kr-dal-1_distance.mp4": "videos/kr-dal-1_how.mov",
-        "videos/kr-dal-1_name.mp4": "videos/kr-dal-1_how.mov",
-        "videos/kr-dal-1_i.mp4": "videos/kr-dal-1_how.mov",
+        "videos/kr-dal-1_seoul.mp4": "videos/kr-dal-1_seoul.mov",
+        "videos/kr-dal-1_busan.mp4": "videos/kr-dal-1_busan.mov",
+        "videos/kr-dal-1_distance.mp4": "videos/kr-dal-1_distant.mov",
+        "videos/kr-dal-1_name.mp4": "videos/kr-dal-1_name.mov",
+        "videos/kr-dal-1_i.mp4": "videos/kr-dal-1_i.mov",
         "videos/kr-dal-1_today.mp4": "videos/kr-dal-1_how.mov",
-        "videos/kr-dal-1_weather.mp4": "videos/kr-dal-1_how.mov"
+        "videos/kr-dal-1_weather.mp4": "videos/kr-dal-1_weather.mov",
+        "videos/kr-dal-1_325.mp4": "videos/kr-dal-1_325.mov",
+        "videos/kr-dal-1_km.mp4": "videos/kr-dal-1_km.mov",
+        "videos/kr-dal-1_done.mp4": "videos/kr-dal-1_done.mov",
+        "videos/kr-dal-1_signgpt.mp4": "videos/kr-dal-1_signgpt.mov",
+        "videos/kr-dal-1_hot.mp4": "videos/kr-dal-1_hot.mov",
+        "videos/kr-dal-1_so.mp4": "videos/kr-dal-1_so.mov",
+        "videos/kr-dal-1_rain.mp4": "videos/kr-dal-1_rain.mov"
       }
     }
   ]

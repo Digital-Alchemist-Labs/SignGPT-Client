@@ -2,7 +2,7 @@ from modules.text_to_sign import TextToSign
 from modules.llm_chains_v2 import SignGPT_API
 # from model_dim import InferModel  # 모델을 openvino로 최적화 하였기 때문에 필요하지 않음
 import yaml
-import torch
+# import torch
 import time
 import numpy as np
 import cv2
@@ -205,7 +205,7 @@ def play_next_video():
                 break
             st.session_state.video_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             video_output_placeholder.image(
-                st.session_state.video_frame, channels="RGB", use_column_width=True)
+                st.session_state.video_frame, channels="RGB", use_container_width=True)
             time.sleep(0.006)
 
         cap.release()
@@ -258,7 +258,7 @@ def main_loop():
                 break
 
             frame, results = process_video(frame, holistic)
-            video_placeholder.image(frame, channels="BGR", use_column_width=True)
+            video_placeholder.image(frame, channels="BGR", use_container_width=True)
 
             current_time = time.time()
             if current_time - last_recognition_time >= st.session_state.recognition_interval:
