@@ -1,13 +1,15 @@
 import streamlit as st
 
+
 # 전체 페이지 설정
 st.set_page_config(
     page_title="Sign GPT",  # 페이지 제목
     page_icon="🌟",                   # 페이지 아이콘
-    layout="wide"                     # 레이아웃 설정
+    layout="wide",                     # 레이아웃 설정
+    initial_sidebar_state="collapsed"
 )
 
-# CSS 스타일 정의 (배경 포함)
+# CSS 스타일 정의 (배경 포
 st.markdown(
     """
     <style>
@@ -64,10 +66,11 @@ st.markdown(
 
 # 사이드바 메뉴 구현
 with st.sidebar:
-    st.markdown('<h1>Menu</h1>', unsafe_allow_html=True)
+
+    st.markdown('<h1>Sign GPT</h1>', unsafe_allow_html=True)
     menu_option = st.selectbox(
         "Menu Option",
-        ["옵션을 선택하세요", "Menu 1", "Menu 2", "Menu 3"]
+        ["Sign GPT", "Menu 1", "Menu 2", "Menu 3"]
     )
 
 # 메인 컨테이너 구현
@@ -75,6 +78,10 @@ with st.container():
 
     # 상단 영역
     with st.container():
+        
+        st.title("SignGPT")
+        st.markdown("##### by Digital Alchemist")
+
         col_left, col_right = st.columns(2)
 
         with col_left:

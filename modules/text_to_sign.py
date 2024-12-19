@@ -172,9 +172,9 @@ class TextToSign:
 
 if __name__ == "__main__":
   module = TextToSign(
-      mapping_path="/Users/jaylee_83/Documents/_SignGPT/dictionary/kr-dict-mapping.json",
-      url_path="/Users/jaylee_83/Documents/_SignGPT/dictionary/kr-dict-urls.json",
-      paths_path="/Users/jaylee_83/Documents/_SignGPT/dictionary/kr-dict-paths.json",
+      mapping_path="/Users/jaylee_83/Documents/_DigitalAlchemistLabs/git_clones/SignGPT-Client/dictionary/kr-dict-mapping.json",
+      url_path="/Users/jaylee_83/Documents/_DigitalAlchemistLabs/git_clones/SignGPT-Client/dictionary/kr-dict-urls.json",
+      paths_path="/Users/jaylee_83/Documents/_DigitalAlchemistLabs/git_clones/SignGPT-Client/dictionary/kr-dict-paths.json",
       mode="path"  # Set the mode to 'url' or 'path'
   )
 
