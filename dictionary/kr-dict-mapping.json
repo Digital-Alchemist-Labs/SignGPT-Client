@@ -18,6 +18,20 @@
         }
       },
       {
+        "label": "kr-dal-1_325",
+        "token": {
+          "kr": ["325"],
+          "en": ["325"]
+        }
+      },
+      {
+        "label": "kr-dal-1_km",
+        "token": {
+          "kr": ["km"],
+          "en": ["km"]
+        }
+      },
+      {
         "label": "kr-dal-1_hi",
         "token": {
           "kr": ["안녕", "안녕하세요"],
@@ -85,6 +99,48 @@
         "token": {
           "kr": ["날씨"],
           "en": ["weather"]
+        }
+      },
+      {
+        "label": "kr-dal-1_you",
+        "token": {
+          "kr": ["당신"],
+          "en": ["you"]
+        }
+      },
+      {
+        "label": "kr-dal-1_signgpt",
+        "token": {
+          "kr": ["SignGPT", "signgpt"],
+          "en": ["SignGPT", "signgpt"]
+        }
+      },
+      {
+        "label": "kr-dal-1_done",
+        "token": {
+          "kr": ["입니다"],
+          "en": []
+        }
+      },
+      {
+        "label": "kr-dal-1_so",
+        "token": {
+          "kr": ["매우"],
+          "en": []
+        }
+      },
+      {
+        "label": "kr-dal-1_hot",
+        "token": {
+          "kr": ["덥다"],
+          "en": ["hot"]
+        }
+      },
+      {
+        "label": "kr-dal-1_rain",
+        "token": {
+          "kr": ["비"],
+          "en": ["rain"]
         }
       }
     ],
