@@ -471,7 +471,6 @@ def display_chat_messages():
                         play_next_video1(system_output[3:])
                 
                 idx += 1
-                print(idx)
             
         #     st.markdown("<hr>", unsafe_allow_html=True)
         
