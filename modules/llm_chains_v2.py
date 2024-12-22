@@ -80,6 +80,7 @@ class SignGPT_API:
 
 if __name__ == "__main__":
   test = SignGPT_API(base_url="http://0.0.0.0:8000")
+  # test = SignGPT_API(base_url="https://sign-gpt-server.vercel.app")
 
   print(test.sgc2("안녕하세요"))
   print(test.result_log)
